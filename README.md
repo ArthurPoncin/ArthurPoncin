@@ -2,7 +2,8 @@
 <h3 align="center">Full Stack & DevOps Developer</h3>
 
 <p align="center">
-  Experienced in Agile methodologies, I design robust applications, from the user interface down to the back-end architecture.
+  I design robust applications end to end, from the user interface down to the back-end architecture and the pipeline that ships it.<br/>
+  Agile by habit, DevOps by conviction, with a soft spot for IoT and applied Machine Learning.
 </p>
 
 <p align="center">
@@ -25,6 +26,18 @@
 
 ---
 
+### 🚀 Featured Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| 🛰️ **[Sentinel-X](https://github.com/ArthurPoncin/sentinel-x)** | Autonomous IoT surveillance outpost: ESP32 sensors, edge AI on a Raspberry Pi 4 (intrusion detection, predictive maintenance) and a real-time 3D Digital Twin, with TLS on every link. Built by a team of five in one week: 270+ commits, 1,483 automated tests. | TypeScript · React · Three.js · Fastify · Python · ESP32 · MQTT · Docker |
+| 🌉 **[SHM Bridge Traffic ML](https://github.com/ArthurPoncin/shm-bridge-traffic-ml)** | Pipeline combining signal processing and Machine Learning (Random Forest) to detect and validate heavy vehicle traffic from bridge sensor data. | Python · scikit-learn · SciPy |
+| 🌙 **[Noctambule](https://github.com/ArthurPoncin/eve-nantes)** | Where to go out in Nantes: compose your night out and share it. Shipped with CI/CD and continuous deployment. | Laravel · Vue 3 · PostgreSQL · Redis · Docker |
+| 💪 **[HealthAI Coach](https://github.com/ArthurPoncin/MSPR3-livrables)** | AI fitness coaching platform taken to production: containerisation, observability, CI/CD and security ([deployment stack](https://github.com/ArthurPoncin/MSPR-Deploy)). | Docker Compose · GHCR · GitHub Actions |
+| 🌿 **[Essence Mère](https://github.com/ArthurPoncin/essence-mere-ecommerce)** | E-commerce REST API for a natural products shop, with a layered architecture. | Java 21 · Spring Boot · PostgreSQL · Docker |
+
+---
+
 ### 🛠️ Skills
 
 **Languages**
@@ -33,7 +46,7 @@
 
 **Front-end**
 <br>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TanStack](https://img.shields.io/badge/TanStack-%23FF4154.svg?style=for-the-badge&logo=tanstack&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TanStack](https://img.shields.io/badge/TanStack-%23FF4154.svg?style=for-the-badge&logo=tanstack&logoColor=white) ![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 **Back-end & Runtimes**
 <br>
@@ -51,6 +64,10 @@
 <br>
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 
+**IoT & Embedded**
+<br>
+![ESP32](https://img.shields.io/badge/ESP32-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/raspberry%20pi-%23A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-%23660066.svg?style=for-the-badge&logo=mqtt&logoColor=white)
+
 **DevOps & Tools**
 <br>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPk1pY3Jvc29mdCBBenVyZTwvdGl0bGU+PHBhdGggZD0iTTIyLjM3OSAyMy4zNDNhMS42MiAxLjYyIDAgMCAwIDEuNTM2LTIuMTR2LjAwMkwxNy4zNSAxLjc2QTEuNjIgMS42MiAwIDAgMCAxNS44MTYuNjU3SDguMTg0QTEuNjIgMS42MiAwIDAgMCA2LjY1IDEuNzZMLjA4NiAyMS4yMDRhMS42MiAxLjYyIDAgMCAwIDEuNTM2IDIuMTM5aDQuNzQxYTEuNjIgMS42MiAwIDAgMCAxLjUzNS0xLjEwM2wuOTc3LTIuODkyIDQuOTQ3IDMuNjc1Yy4yOC4yMDguNjE4LjMyLjk2Ni4zMm0tMy4wODQtMTIuNTMxIDMuNjI0IDEwLjczOWEuNTQuNTQgMCAwIDEtLjUxLjcxM3YtLjAwMWgtLjAzYS41NC41NCAwIDAgMS0uMzIyLS4xMDZsLTkuMjg3LTYuOWg0Ljg1M202LjMxMyA3LjAwNmMuMTE2LS4zMjYuMTMtLjY5NC4wMDctMS4wNThMOS43OSAxLjc2YTEuNzIyIDEuNzIyIDAgMCAwLS4wMDctLjAyaDYuMDM0YS41NC41NCAwIDAgMSAuNTEyLjM2Nmw2LjU2MiAxOS40NDVhLjU0LjU0IDAgMCAxLS4zMzguNjg0Ii8+PC9zdmc+) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -60,5 +77,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ArthurPoncin&theme=radical" alt="GitHub Streak de Arthur Poncin" />
+  <img src="https://streak-stats.demolab.com/?user=ArthurPoncin&theme=radical&hide_border=true" alt="GitHub streak of Arthur Poncin" />
+</p>
+
+<p align="center">
+  <i>Always learning, always shipping. Feel free to reach out!</i>
 </p>
