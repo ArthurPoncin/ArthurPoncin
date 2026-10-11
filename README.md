@@ -26,18 +26,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| 🛰️ **[Sentinel-X](https://github.com/ArthurPoncin/sentinel-x)** | Autonomous IoT surveillance outpost: ESP32 sensors, edge AI on a Raspberry Pi 4 (intrusion detection, predictive maintenance) and a real-time 3D Digital Twin, with TLS on every link. Built by a team of five in one week: 270+ commits, 1,483 automated tests. | TypeScript · React · Three.js · Fastify · Python · ESP32 · MQTT · Docker |
-| 🌉 **[SHM Bridge Traffic ML](https://github.com/ArthurPoncin/shm-bridge-traffic-ml)** | Pipeline combining signal processing and Machine Learning (Random Forest) to detect and validate heavy vehicle traffic from bridge sensor data. | Python · scikit-learn · SciPy |
-| 🌙 **[Noctambule](https://github.com/ArthurPoncin/eve-nantes)** | Where to go out in Nantes: compose your night out and share it. Shipped with CI/CD and continuous deployment. | Laravel · Vue 3 · PostgreSQL · Redis · Docker |
-| 💪 **[HealthAI Coach](https://github.com/ArthurPoncin/MSPR3-livrables)** | AI fitness coaching platform taken to production: containerisation, observability, CI/CD and security ([deployment stack](https://github.com/ArthurPoncin/MSPR-Deploy)). | Docker Compose · GHCR · GitHub Actions |
-| 🌿 **[Essence Mère](https://github.com/ArthurPoncin/essence-mere-ecommerce)** | E-commerce REST API for a natural products shop, with a layered architecture. | Java 21 · Spring Boot · PostgreSQL · Docker |
-
----
-
 ### 🛠️ Skills
 
 **Languages**
