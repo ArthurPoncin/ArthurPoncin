@@ -19,9 +19,8 @@
 
 ### Currently
 
-- **Apprentice Full Stack & DevOps Developer** at *Sixense Engineering* (ML, IoT, Architecture, React, Django, Spring Boot, CI/CD, DevOps).
-- **Student** in the Application Designer & Developer (CDA) DevOps program at EPSI.
-- **Seeking a work-study position** to build robust applications from UI to back-end architecture.
+- **Work-study apprentice** at *Naval Group*, as part of a Master's-level (Bac+5) program.
+- **Previously:** Apprentice Full Stack & DevOps Developer at *Sixense Engineering* (ML, IoT, Architecture, React, Django, Spring Boot, CI/CD, DevOps), while completing the Application Designer & Developer (CDA) DevOps program at EPSI.
 - **Current focus:** Distributed software architecture, DevOps pipeline optimization, and the integration of Artificial Intelligence models into business applications.
 
 ---
